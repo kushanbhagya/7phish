@@ -20,7 +20,7 @@
 
 ## 📖 About
 
-**7phish** is a cybersecurity educational project that demonstrates how phishing attacks work in a controlled, ethical environment. It is designed to help security professionals, students, and awareness trainers understand social engineering techniques — and more importantly, how to defend against them.
+**7phish** is a cybersecurity educational project that demonstrates how phishing attacks work in a controlled, ethical environment. It is designed to help security professionals, students, and awareness trainers understand social engineering techniques and more importantly, how to defend against them.
 
 ---
 
