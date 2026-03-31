@@ -77,16 +77,6 @@ chmod +x script.sh
 
 ---
 
-## ▶️ Usage
-
-```bash
-python main.py
-```
-
-Follow the on-screen instructions to launch and explore phishing simulation scenarios.
-
----
-
 ## 🎯 Learning Objectives
 
 By using this project, you will:
