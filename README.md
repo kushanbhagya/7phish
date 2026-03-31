@@ -48,28 +48,31 @@
 
 ```
 7phish/
-├── main.py            # Entry point
-├── templates/         # Phishing page templates
-├── assets/            # Static assets
-├── requirements.txt   # Python dependencies
+├── 7phish.sh           # Entry point
 └── README.md          # Project documentation
 ```
 
 ---
 
-## ⚙️ Installation
+## ▶️ Running the Script
 
-**1. Clone the repository:**
+This project is executed using a shell script.
+
+### Step 1: Navigate to the project
 
 ```bash
-git clone https://github.com/kushanbhagya/7phish.git
 cd 7phish
 ```
-
-**2. Install dependencies:**
+### Step 2: Give execute permission
 
 ```bash
-pip install -r requirements.txt
+chmod +x script.sh
+```
+
+### Step 3: Run the script
+
+```bash
+./script.sh
 ```
 
 ---
